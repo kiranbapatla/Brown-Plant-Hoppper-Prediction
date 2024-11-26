@@ -7,4 +7,4 @@ Seasonal Auto-Regressive Integrated Moving Average with exogenous variables (SAR
 
 ## How to run the code
 ### SARIMAX model
-Executed the Google colab notebook file "SARIMAX.ipynb" by importing data file name "SARIMAX.csv" 
+Executed the Google colab notebook file "SARIMAX.ipynb" by importing data file name "SARIMAX_data.csv" 
