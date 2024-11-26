@@ -7,4 +7,6 @@ Seasonal Auto-Regressive Integrated Moving Average with exogenous variables (SAR
 
 ## How to run the code
 ### SARIMAX model
-Executed the Google colab notebook file "SARIMAX.ipynb" by importing data file name "SARIMAX_data.csv" 
+Run the notebook file "SARIMAX.ipynb" by importing data file name "SARIMAX_data.csv" 
+### MLP and LSTM model
+Run the notebook file "MLP.ipynb" and "LSTM.ipynb" by importing data file name "MLP_LSTM_data.csv" 
